@@ -56,14 +56,17 @@
   /* Texto */
   h1{
     text-decoration: underline;
-    margin-left: 5px;
-    margin-top: 10px;
+    padding-top: 8px;
     font-size: larger;
+    text-align: center;
   }
 
   p{
     font-size: large;
-    margin-left: 5px;
+    max-width: 1000px;
+    margin: auto;
+    padding-bottom: 10px;
+    
   }
 
 /* video */
